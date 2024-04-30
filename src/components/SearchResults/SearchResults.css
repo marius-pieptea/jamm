@@ -1,0 +1,11 @@
+.SearchResults {
+    width: 40%;
+    display: inline-block;
+    vertical-sign: top;
+    padding: 20px;
+    box-sizing: border-box 
+}
+
+.SearchResults h2 {
+    color: #1DB954;
+}
