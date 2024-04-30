@@ -1,4 +1,3 @@
-// TODO: setup spotify APIs
 const clientId = "get yours from https://developer.spotify.com/dashboard/";
 const redirectUri = "http://localhost:5173/";
 
